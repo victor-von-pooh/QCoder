@@ -1,12 +1,12 @@
 # QCoder
 
-QCoderで使う個人リポジトリ.
+QCoder で使う個人リポジトリ.
 
 # QCoder について
 
 URL: https://www.qcoder.jp/ja  
 
-QCoderに参加した記録を残す.  
+QCoder に参加した記録を残す.  
 また, 実際にコーディングするときに使用する.
 
 ## ローカル環境のセットアップ
@@ -31,6 +31,7 @@ pip3 install 'qiskit[visualization]'
 ```
 
 ## Commit ルール
+
 Commit の際は以下のルールに合わせて種類ごとにする.
 
 🎉  初めてのコミット (Initial Commit)  
