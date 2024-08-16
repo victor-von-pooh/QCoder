@@ -24,6 +24,12 @@ pip3 install --upgrade pip
 pip3 install -r requirements.txt
 ```
 
+念の為, `qiskit[visualization]` も入れておく.
+
+```
+pip3 install 'qiskit[visualization]'
+```
+
 ## Commit ルール
 Commit の際は以下のルールに合わせて種類ごとにする.
 
