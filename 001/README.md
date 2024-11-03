@@ -5,4 +5,4 @@ URL: https://www.qcoder.jp/ja/contests/QPC001
 # 結果
 
 総得点: 1100  
-順位: 50 / 255
+順位: 50 / 191(255)

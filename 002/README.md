@@ -3,3 +3,6 @@
 URL: https://www.qcoder.jp/ja/contests/QPC002
 
 # 結果
+
+総得点: 1400  
+順位: 29 / 121(183)
